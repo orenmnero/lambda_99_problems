@@ -4,6 +4,7 @@ import com.jnape.palatable.lambda.functions.Fn1;
 import com.jnape.palatable.lambda.io.IO;
 import org.junit.Test;
 
+import java.util.Collections;
 import java.util.LinkedList;
 import java.util.concurrent.ThreadLocalRandom;
 
@@ -42,7 +43,7 @@ public class P23_Test {
                                 P20_Test.removeTheKthElementFromAlist(randomNumber, moveBetween._2())
                         );
                     },
-                    tupler(emptyList(), iterable),
+                    tupler(Collections::emptyIterator, iterable),
                     map(randomNumberGenerator::apply, take(n, iterate(i -> i - 1, size(iterable).intValue())))
             );
 
