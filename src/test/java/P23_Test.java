@@ -51,7 +51,7 @@ public class P23_Test {
     }
 
     @Test
-    public void P23_extractAGivenNumberOfRandomlySelectedElementsFromAList() {
+    public void extractAGivenNumberOfRandomlySelectedElementsFromAList() {
         take(1000, repeat(io(() -> {
             assertEquals(Long.valueOf(3), size(distinct(extractAGivenNumberOfRandomlySelectedElementsFromAList(
                     size -> io(() -> ThreadLocalRandom.current().nextInt(size) + 1), 3, asList('a', 'b', 'c', 'd', 'e', 'f', 'g', 'h')

@@ -13,7 +13,7 @@ public class P20_Test {
     }
 
     @Test
-    public void P20_removeTheKthElementFromAlist() {
+    public void removeTheKthElementFromAlist() {
         assertThat(
                 removeTheKthElementFromAlist(2, asList('a', 'b', 'c', 'd')),
                 iterates('a', 'c', 'd')

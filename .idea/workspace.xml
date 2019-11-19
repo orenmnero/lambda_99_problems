@@ -2,37 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f42872ad-a2c1-46d6-a051-eced401eae60" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/P01_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/P02_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/P03_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/P04_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/P05_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/P06_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/P08_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/P09_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/P10_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/P14_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/P15_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/P16_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/P17_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/P18_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/P19_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/P20_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/P21_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/P22_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/P23_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/P24_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/P23_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/P23_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/P24_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/P24_Test.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,8 +48,10 @@
   </component>
   <component name="ProjectId" id="1Tq50A9zM03q1gepO0G0vPbbYDt" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -195,6 +171,7 @@
       <option name="presentableId" value="Default" />
       <updated>1574174559586</updated>
       <workItem from="1574174568377" duration="3656000" />
+      <workItem from="1574201466287" duration="894000" />
     </task>
     <servers />
   </component>
@@ -206,7 +183,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

@@ -58,7 +58,7 @@ public class P24_Test {
     }
 
     @Test
-    public void P24_lottoDrawNDifferentRandomNumbersFromTheSet1ThruM() {
+    public void lottoDrawNDifferentRandomNumbersFromTheSet1ThruM() {
         assertThat(lottoDrawNDifferentRandomNumbersFromTheSet1ThruM(
                 constantly(io(new LinkedList<>(asList(1, 1, 1, 1, 1, 1))::pop)), 6, 49
         ), yieldsValue(iterates(1, 2, 3, 4, 5, 6)));
